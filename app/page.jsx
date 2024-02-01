@@ -11,8 +11,8 @@ function App() {
   return (
     <>
       <Navbar />
-      <About></About>
       <Hero></Hero>
+      <About></About>
       <Projects></Projects>
       <Contact></Contact>
       <Footer />
