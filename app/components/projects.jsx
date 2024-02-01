@@ -6,8 +6,10 @@ const Projects = () => {
   ];
 
   return (
-   
-  p);
+   <div>
+    
+   </div>
+  );
 };
 
 export default Projects;
